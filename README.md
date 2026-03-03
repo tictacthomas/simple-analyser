@@ -1,4 +1,4 @@
-# Sensor Data Analyzer 🛢️
+# Sensor Data Analyzer 
 
 A Python project for analyzing and visualizing simulated offshore sensor data.
 
